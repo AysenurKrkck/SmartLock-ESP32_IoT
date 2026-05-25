@@ -3,6 +3,7 @@
 # 🔑 SmartLock-ESP32-V2 (Blynk IoT & Servo)
 
 [TR] ESP32, RFID ve **Blynk IoT** kullanılarak geliştirilmiş, internet üzerinden veya fiziksel kartla kontrol edilebilen akıllı kapı kilidi sistemi.
+
 [EN] A smart door lock system developed using ESP32, RFID, and **Blynk IoT**, controllable via internet or physical card.
 
 ---
@@ -68,6 +69,3 @@ Bu projenin çalışması için aşağıdaki kütüphanelerin Arduino IDE'ye yü
 * 📄 `kart_id.ino` -> [TR] Kart UID tespiti için test kodu. / [EN] Test code for UID detection.
 
 ---
-
-## 📄 Lisans / License
-This project is licensed under the MIT License.
