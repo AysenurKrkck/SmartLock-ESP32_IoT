@@ -48,22 +48,6 @@ Bu projenin çalışması için aşağıdaki kütüphanelerin Arduino IDE'ye yü
 
 ---
 
-## 🔌 Devre Şeması / Pinout
-
-| Bileşen / Component | ESP32 Pin |
-| :--- | :--- |
-| **RFID SDA (SS)** | GPIO 5 |
-| **RFID SCK** | GPIO 18 |
-| **RFID MOSI** | GPIO 23 |
-| **RFID MISO** | GPIO 19 |
-| **RFID RST** | GPIO 22 |
-| **Servo Data** | GPIO 13 |
-| **Buzzer** | GPIO 27 |
-| **Green LED** | GPIO 12 |
-| **Red LED** | GPIO 14 |
-
----
-
 ## 🛠️ Kurulum ve Kullanım / Installation & Usage
 
 ### 1️⃣ Blynk Yapılandırması / Blynk Configuration
